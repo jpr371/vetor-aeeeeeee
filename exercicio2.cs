@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program {
+class exercicio2 {
     static void Main() {
 
 Console.Write("Quantidade n: ");
